@@ -5,20 +5,21 @@
  <b>OBJETIVOS<p> 
 Objetivo General:
 <dl>
- <dd>Comprender varios conceptos básicos de estudio en fundamentos de circuitos eléctricos, así como los componentes que pueden implementarse en la práctica, logrando de esta forma, reforzar los temas tratados durante la clase dada.</dd>
+ <dd></dd>
 </dl>
 Objetivos Específicos:
 <ul>
- <li>Analizar las unidades de medida y las conversiones correspondientes de acuerdo al uso dado.</li>
- <li>Definir de manera clara y concisa los conceptos de voltaje, corriente y resistencia, ya que estos se aplican en los ejercicios que se encuentran en el presente informe.</li>
- <li>Conocer los distintos dispositivos de medida e interpretar los resultados que se obtienen mediante los mismos.</li>
+ <li></li>
+ <li</li>
+ <li></li>
 </ul>
 <b>MARCO TEÓRICO <p>
  <dl>
-  <dd>SECCIÓN 1</dd>
-   <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/cap1.jpg" width="600" height="750"></dd>  
- <dd>SECCIÓN 2</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/cap2.jpg" width="600" height="750"></dd>
+  <dd>SECCIÓN 9</dd>
+   <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/cap9.jpg" width="600" height="750"></dd>  
+   <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/cap9.1.jpg" width="600" height="750"></dd>  
+ <dd>SECCIÓN 10</dd>
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/cap10.jpg" width="600" height="750"></dd>
 </dl>
   <b>EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
