@@ -16,141 +16,106 @@ Objetivos Específicos:
 <b>MARCO TEÓRICO <p>
  <dl>
   <dd>SECCIÓN 9</dd>
-   <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/cap9.jpg" width="600" height="750"></dd>  
-   <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/cap9.1.jpg" width="600" height="750"></dd>  
+   <dd><div "center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/cap9.jpg" width="650" height="600"></dd>  
+   <dd><div "center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/cap9.1.jpg" width="650" height="600"></dd>  
  <dd>SECCIÓN 10</dd>
   <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/cap10.jpg" width="600" height="750"></dd>
 </dl>
   <b>EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-<b>SECCIÓN 1
+<b>SECCIÓN 9 ANÁLISIS DE RAMAS, LAZOS Y NODOS
 
-<i>SECCIÓN 1–2 Notación científica</i>
+<i>SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de Circuitos</i>
 
 <dl>
-<dd>2. Exprese cada número fraccionario en notación científica:</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej2.JPG"></dd>  
-<dd>4. Exprese cada uno de los números siguientes en notación científica:</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej4.JPG"></dd>
-<dd>6. Exprese cada uno de los números siguientes como un número decimal regular:</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej6.JPG"></dd>
-<dd>8. Exprese cada número de los siguientes como un número decimal regular:</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej8.JPG"></dd>
-<dd>10. Efectúe las siguientes sustracciones:</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej10.JPG"></dd>
-<dd>12. Realice las siguientes divisiones:</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej12.JPG"></dd>
+<dd>2. Evalúe cada determinante:</dd>
+ <dd><img src=""></dd>  
+<dd>4. Evalúe cada uno de los determinantes:</dd>
+ <dd><img src=""></dd>
+<dd>6. Determine I3 en el ejemplo 9-4.</dd>
+  <dd><img src=""></dd>
+<dd>*8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:</dd>
+  <dd><img src=""></dd>
+<dd>10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.</dd>
+  <dd><img src=""></dd>
 </dl>
 
-<i>SECCIÓN 1–3 Notación de ingeniería y prefijos métricos</i>
+<i>SECCIÓN 9–2 Método de la corriente en ramas</i>
 <dl>
-<dd>14. Exprese cada número en notación de ingeniería:</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej14.JPG"></dd>
-<dd>16. Exprese cada número en notación de ingeniería:</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej16.JPG"></dd>
-<dd>18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej18.JPG"></dd>
-<dd>20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej20.JPG"></dd>
-<dd>22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej22.JPG"></dd>
-<dd>24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej24.JPG"></dd>
-<dd>26. Exprese cada cantidad en notación de ingeniería:</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej26.JPG"></dd>
-</dl>
-<i>SECCIÓN 1–4 Conversiones de unidades métricas</i>
+<dd>12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.</dd>
+  <dd><img src=""></dd>
+<dd>* 14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.</dd>
+  <dd><img src=""></dd>
+ 
+<i>SECCIÓN 9–3 Método de la corriente en trayectorias cerradas</i>
 <dl>
-<dd>28. Determine lo siguiente:</dd>
-  
-      (a)	El número de microamperes en 1 miliampere
-       a)	1000uA
-
-      (b)	El número de milivolts en 0.05 kilovolts
-       b)	50000 mV
-
-      (c)	El número de megohms en 0.02 kΩ
-       c)	0.00002 MΩ
-
-      (d)	El número de kilowatts en 155 miliwatts
-       d) 0.000155Kw
-
-<dd>30. Realice las siguientes operaciones:</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej30.JPG"></dd>
+<dd>16. Escriba el determinante característico para las ecuaciones:</dd>
+<dd><img src=""></dd>
+<dd>18. Determine las corrientes de rama en la figura 9-28.</dd>
+ <dd><img src=""></dd>
+ <dd>20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29.</dd>
+ <dd><img src=""></dd>
+ <dd>22. Determine la corriente a través de cada resistor en la figura 9-29.</dd>
+ <dd><img src=""></dd>
+ <dd>24. Cuando se conecta un resistor de 10 kΩ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?</dd>
+ <dd><img src=""></dd>
  </dl>
-<p><b>SECCIÓN 2
+ 
+ <i>SECCIÓN 9–4 Método del voltaje en nodos</i>
+<dl>
+<dd>26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra</dd>
+<dd><img src=""></dd>
+<dd>28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo.</dd>
+ <dd><img src=""></dd>
+ <dd>*30. Determine el voltaje en los puntos A, B y C en la figura 9-34.</dd>
+ <dd><img src=""></dd>
+ 
+<p><b>SECCIÓN 10 MAGNETISMO Y ELECTROMAGNETISMO
+<i>SECCIÓN 10–1 El campo magnético</i>
+<dl>
+<dd>2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb. ¿Cuál es la densidad de flujo?</dd>
+<dd><img src="">
+<dd>4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.</dd>
+<dd><img src="">
 
-<i>SECCIÓN 2–2 Carga eléctrica</i>
+<i>SECCIÓN 10–2 Electromagnetismo</i>
 <dl>
-<dd>2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej2.JPG">
-<dd>4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej4.JPG">
-<dd>6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej6.JPG">
-<dd>8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej8.JPG">
-<dd>10. Determine la corriente en cada uno de los siguientes casos:</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej10.JPG">
-<dd>12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5A?</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej12.JPG">
-<dd>14. 5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej14.JPG">
-<dd>16. Encuentre la resistencia correspondiente a las siguientes conductancias:</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej16.JPG">
+<dd>6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?</dd>
+<dd><img src=""></dl>
+<dd>8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m2 si la permeabilidad absoluta es de 150 * 10-7 Wb/At*m.</dd>  
+ <dd><img src="">
  </dl>
-<i>SECCIÓN 2–4 Fuentes de voltaje y de corriente</i>
+ 
+  <i>SECCIÓN 10–3 Dispositivos electromagnéticos</i>
 <dl>
-<dd>18. ¿En qué principio se basan los generadores eléctricos?</dd>
- <dd>Se basan en el principio de la inducción electromagnética</dd>
-<dd>20. Cierta fuente de corriente proporciona 100 mA a 1 kOhms de carga. Si la resistencia disminuye a 500 Ohms, ¿cuál es la corriente en la carga?</dd>  
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej20.JPG">
- </dl>
-  <i>SECCIÓN 2–5 Resistores</i>
+<dd>10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?</dd>
+  <dd><img src="">
+<dd>12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.</dd>
+<dd><img src="">
+
+<i>SECCIÓN 10–4 Histéresis magnética</i>
 <dl>
-<dd>22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej22.JPG">
-<dd>24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej24.JPG">
-<dd>26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej26.JPG">
-<dd>28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 omhs, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?</dd>
- <dd>La resistencia entre cada terminal sería 500Ω, ya que al encontrarse el amperímetro en el centro y a su vez, tener una resistencia total de 1000Ω, este se divide.</dd>    
-<dd>30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej30.JPG"></dd></dl>
-<i>SECCIÓN 2–6 El circuito eléctrico</i>
+<dd>14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?</dd>
+<dd><img src="" width="600" height="400"></dd>
+ <dd>16. En la figura 10-44, hay 500 vueltas. Determine
+(a) H  (b) f  (c) B
+</dd>
+ <dd><img src=""></dd>
+
+ <p><i>SECCIÓN 10–5 Inducción electromagnética</i>
 <dl>
-<dd>32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.269.JPG" width="600" height="400"></dd>
- <dd>Circuito con Fusible</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej32.JPG"></dd>
-<dd>34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.270.JPG"></dd>
- <dd>Existe corriente a través del resistor R5</dd>
-<dd>36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.271.JPG" width="350" height="350"></dd>
- <dd>Con interruptor</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej36.JPG">
-  </dl>
- <p><i>SECCIÓN 2–7 Mediciones de circuito básicas</i>
+<dd>18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?</dd>
+ <dd><img src=""></dd>
+ <dd>20. Un campo magnético cambia a razón de 3500*10^3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?</dd>
+ <dd><img src=""></dd>
+ 
+  <p><i>SECCIÓN 10–6 Aplicaciones de la inducción electromagnética</i>
 <dl>
-<dd>38. Explique cómo mediría la resistencia de R2 en la figura 2-72.</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.272.JPG"></dd>
- <dd>El voltaje representa el valor total de la suma de las resistencias presentes en el circuito, por ende, basta con restar el voltaje y la resistencia de R1, para así obtener el resultado de la resistencia de R2.</dd>
-<dd>40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.273.JPG"></dd>
- <dd>Con amperímetro</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej40.JPG">
- <dd>Dado que es una serie en paralelo, se conecta el amperímetro en el primer circuito reflejado, que en este caso, es entre el Vs y la resistencia R1. La polaridad de la corriente debe ingresar por la terminal positiva y salir por la terminal negativa.</dd>
- <dd>42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej42.JPG">
-<dd>La terminal negativa del voltímetro debe conectarse el lado negativo del circuito y la terminal positiva debe conectarse al lado positivo del circuito</dd>
-<dd>44. ¿Cuánta resistencia está midiendo el óhmetro de la figura 2-75?</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.275.JPG" width="450" height="500"></dd>
-<dd>La resistencia correspondiente que se mide es de 100Ω, ya que la aguja se encuentra ubicado en el número 10, correspondiente a Ω y se multiplica x10, valor señalado con la perilla del multímetro.</dd>
- <dd>46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?</dd>
-<dd>La resolución máxima de un multímetro digital de 4 1/2 dígitos mostrará hasta 19.999 recuentos de resolución.</dd>
-  </dl>
+<dd>22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?</dd>
+ <dd><img src=""></dd>
+ <dd>* 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?</dd>
+ <dd><img src=""></dd>
+
 <b>VIDEO
 <dl>
  <dd></dd>
