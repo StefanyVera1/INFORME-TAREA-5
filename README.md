@@ -70,14 +70,14 @@ Objetivos Específicos:
  <dd>*30. Determine el voltaje en los puntos A, B y C en la figura 9-34.</dd>
  <dd><img src=""></dd>
  
-<p><b>SECCIÓN 10 MAGNETISMO Y ELECTROMAGNETISMO
+ <p><b>SECCIÓN 10 MAGNETISMO Y ELECTROMAGNETISMO</b></p>
 <i>SECCIÓN 10–1 El campo magnético</i>
 <dl>
 <dd>2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb. ¿Cuál es la densidad de flujo?</dd>
 <dd><img src="">
 <dd>4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.</dd>
 <dd><img src="">
-
+ </dl>
 <i>SECCIÓN 10–2 Electromagnetismo</i>
 <dl>
 <dd>6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?</dd>
