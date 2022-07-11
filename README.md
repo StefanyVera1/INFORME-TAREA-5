@@ -74,7 +74,7 @@ Objetivos Específicos:
 <i>SECCIÓN 10–1 El campo magnético</i>
 <dl>
 <dd>2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb. ¿Cuál es la densidad de flujo?</dd>
-<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej2.JPG" width="250" height="75">
+<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej2.JPG" width="250" height="45">
 <dd>4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.</dd>
 <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej4.JPG" width="250" height="45"> 
  </dl>
@@ -91,31 +91,32 @@ Objetivos Específicos:
 <dd>10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?</dd>
   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej10.JPG" width="500" height="50">
 <dd>12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.</dd>
-<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej12.JPG" width="500" height="50">
+<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej12.JPG" width="500" height="300"></dd>
 
 <i>SECCIÓN 10–4 Histéresis magnética</i>
 <dl>
 <dd>14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?</dd>
-<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej14.JPG" width="500" height="50"></dd>
+<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej14.JPG" width="250" height="35"></dd>
  <dd>16. En la figura 10-44, hay 500 vueltas. Determine
 (a) H  (b) f  (c) B
 </dd>
- <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej16.JPG" width="500" height="50"></dd>
-
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej16.JPG" width="500" height="300"></dd>
+ </dl>
+ 
  <p><i>SECCIÓN 10–5 Inducción electromagnética</i>
 <dl>
 <dd>18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?</dd>
  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej18.JPG" width="500" height="50"></dd>
  <dd>20. Un campo magnético cambia a razón de 3500*10^3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?</dd>
- <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej20.JPG" width="500" height="50"></dd>
- 
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej20.JPG" width="250" height="45"></dd>
+ </dl>
   <p><i>SECCIÓN 10–6 Aplicaciones de la inducción electromagnética</i>
 <dl>
 <dd>22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?</dd>
  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej22.JPG" width="500" height="50"></dd>
  <dd>*24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?</dd>
- <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej24.JPG" width="500" height="50"></dd>
-
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/ej24.JPG" width="250" height="45"></dd>
+ </dl>
 <b>VIDEO
 <dl>
  <dd></dd>
@@ -126,8 +127,7 @@ Objetivos Específicos:
  </dl>
 <b>BIBLIOGRAFÍA
  <dl>
- <dd>Floyde, T.(2007)<i>Principios de Circuitos Eléctricos</i> https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
- <dd>Fluke Corporation(2006)<i>Conceptos básicos de los multímetros digitales</i> https://www.interempresas.net/FeriaVirtual/Catalogos_y_documentos/5159/13155-spa-w.pdf</dd>
+ <dd>Floyde, T.(2007)<i>Principios de Circuitos Eléctricos</i> https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view</dd>
  </dl>
   </body>
   </html>
