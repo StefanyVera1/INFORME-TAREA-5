@@ -5,7 +5,7 @@
  <b>OBJETIVOS<p> 
 Objetivo General:
 <dl>
- <dd></dd>
+ <dd>Comprender los conceptos básicos de los circuitos electrónicos y utilizarlos correctamente en operaciones y análisis matemáticos. Además de aplicar los principios indicados en los capítulos anteriores y utilizarlos para diversos cálculos.</dd>
 </dl>
 Objetivos Específicos:
 <ul>
