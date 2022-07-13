@@ -15,11 +15,8 @@ Objetivos Específicos:
 </ul>
 <b>MARCO TEÓRICO <p>
  <dl>
-  <dd>SECCIÓN 9</dd>
    <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/cap9.jpg" width="650" height="600"></dd>  
-   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/cap9.1.jpg" width="650" height="600"></dd>  
- <dd>SECCIÓN 10</dd>
-  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap10/cap10.jpg" width="600" height="750"></dd>
+   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/cap9.1.jpg" width="650" height="600"></dd>
 </dl>
   <b>EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -29,46 +26,46 @@ Objetivos Específicos:
 
 <dl>
 <dd>2. Evalúe cada determinante:</dd>
- <dd><div align="center"><img src=""></dd>  
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej2.JPG"></dd>  
 <dd>4. Evalúe cada uno de los determinantes:</dd>
- <dd><div align="center"><img src=""></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej4.JPG"></dd>
 <dd>6. Determine I3 en el ejemplo 9-4.</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej6.JPG"></dd>
 <dd>*8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej8.JPG"></dd>
 <dd>10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej10.JPG"></dd>
 </dl>
 
 <i>SECCIÓN 9–2 Método de la corriente en ramas</i>
 <dl>
 <dd>12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej12.JPG"></dd>
 <dd>* 14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej14.JPG"></dd>
  
 <i>SECCIÓN 9–3 Método de la corriente en trayectorias cerradas</i>
 <dl>
 <dd>16. Escriba el determinante característico para las ecuaciones:</dd>
-<dd><div align="center"><img src=""></dd>
+<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej16.JPG"></dd>
 <dd>18. Determine las corrientes de rama en la figura 9-28.</dd>
- <dd><div align="center"><img src=""></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej18.JPG"></dd>
  <dd>20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29.</dd>
- <dd><div align="center"><img src=""></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej20.JPG"></dd>
  <dd>22. Determine la corriente a través de cada resistor en la figura 9-29.</dd>
- <dd><div align="center"><img src=""></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej22.JPG"></dd>
  <dd>24. Cuando se conecta un resistor de 10 kΩ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?</dd>
- <dd><div align="center"><img src=""></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej24.JPG"></dd>
  </dl>
  
  <i>SECCIÓN 9–4 Método del voltaje en nodos</i>
 <dl>
 <dd>26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra</dd>
-<dd><div align="center"><img src=""></dd>
+<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej26.JPG"></dd>
 <dd>28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo.</dd>
- <dd><div align="center"><img src=""></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej28.JPG"></dd>
  <dd>*30. Determine el voltaje en los puntos A, B y C en la figura 9-34.</dd>
- <dd><div align="center"><img src=""></dd>
+ </dl>
  
  <p><b>SECCIÓN 10 MAGNETISMO Y ELECTROMAGNETISMO</b></p>
 <i>SECCIÓN 10–1 El campo magnético</i>
