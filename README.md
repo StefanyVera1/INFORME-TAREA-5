@@ -119,7 +119,7 @@ Objetivos Específicos:
  </dl>
 <b>CONCLUSIONES
  <dl>
-  <dd></dd>
+  <dd>El teorema de máxima transferencia de potencia  es  que para una fuente de tensión dada, la máxima potencia  se transfiere de la fuente a la carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente.</dd>
  </dl>
 <b>BIBLIOGRAFÍA
  <dl>
