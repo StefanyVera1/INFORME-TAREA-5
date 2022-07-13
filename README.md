@@ -9,9 +9,9 @@ Objetivo General:
 </dl>
 Objetivos Específicos:
 <ul>
- <li></li>
- <li</li>
- <li></li>
+ <li>Determinar cantidades desconocidas en un circuito, a través del método en ramas y el análisis de datos.</li>
+ <li>Comprender los principios de un campo magnético, electromagnetismo, así como también la histéresis magnética.</li>
+ <li>Determinar las aplicaciones de la inducción electromagnética.</li>
 </ul>
 <b>MARCO TEÓRICO <p>
  <dl>
