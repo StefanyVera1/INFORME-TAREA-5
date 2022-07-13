@@ -55,7 +55,6 @@ Objetivos Específicos:
  <dd>22. Determine la corriente a través de cada resistor en la figura 9-29.</dd>
  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej22.JPG"></dd>
  <dd>24. Cuando se conecta un resistor de 10 kΩ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?</dd>
- <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-5/blob/main/img/cap9/ej24.JPG"></dd>
  </dl>
  
  <i>SECCIÓN 9–4 Método del voltaje en nodos</i>
